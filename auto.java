@@ -12,7 +12,6 @@ public class auto {
 
     private int distanceTraveled;
 
-
     public AutoKlasse(){}
 
     public void setTankSize(int tankSize){
